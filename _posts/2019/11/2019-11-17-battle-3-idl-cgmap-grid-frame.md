@@ -52,7 +52,10 @@ So what is needed is:
 pMapCoord -> SetProperty, Position=position_map
 Below is the result converted from eps:
 
-![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/dem_grid.png?raw=true)
+
+
+
+![Figure 2](https://github.com/changliao/technology/blob/main/_figure/idl/dem_grid.png?raw=true)
 
 
 Why I bother to use IDL instead of other tools like Python, ArcMap?

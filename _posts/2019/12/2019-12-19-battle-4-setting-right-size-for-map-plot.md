@@ -27,7 +27,10 @@ colorbar title: charsize  * 0.7
 colorbar label: charsize  * 0.8
 
 To illustrate:
-![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/dem.png?raw=true)
+
+
+
+![Figure 2](https://github.com/changliao/technology/blob/main/_figure/idl/dem.png?raw=true)
 
 
 Later I will provide other examples for other type of plots. 

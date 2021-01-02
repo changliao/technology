@@ -18,4 +18,5 @@ blogger_orig_url: https://codedoesnotlie.blogspot.com/2020/07/battle-32-vs-code-
 Somehow in the VNC environment, the "u" becomes unknown when I was trying to set up the shortcut.
 
 
-![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/vnc_u.png?raw=true)
+
+![Figure 1](https://github.com/changliao/technology/blob/main/_figure/programming/vnc_u.png?raw=true)

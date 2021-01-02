@@ -27,16 +27,22 @@ One of them is in my Git: https://github.com/changliao1025/modelview
 This time I decided to use the package which uses XML.
 It is straightforward to follow the example. You need to be careful with the data section still because of the memory alignment with 3D datasets.
 
-![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/row-major-3D.png?raw=true)
+
+
+![Figure 1](https://github.com/changliao/technology/blob/main/_figure/programming/row_major_3D.png?raw=true)
 
 After that, I was able to produce some results:
 
-![Figure 2](https://github.com/changliao/changliao.github.io/blob/main/_figure/artifact.png?raw=true)
+
+
+![Figure 1](https://github.com/changliao/technology/blob/main/_figure/vtk/artifact.png?raw=true)
 
 
 However, there is some issue with Visit or ParaView, if the mesh cell are too close, there might be an artifact with the rendering. So I increased the distance slightly and the new results look great.
 
-![Figure 3](https://github.com/changliao/changliao.github.io/blob/main/_figure/wtd_vtk.png?raw=true)
+
+
+![Figure 1](https://github.com/changliao/technology/blob/main/_figure/vtk/wtd_vtk.png?raw=true)
 
 
 With that, the python package I developed for E3SM can fully support VTK now.

@@ -13,6 +13,12 @@ blogger_orig_url: https://codedoesnotlie.blogspot.com/2020/06/battle-26-pandas-d
 
 
 The pandas date function seems to be very complex! For example:
-![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/pandas_date.png?raw=true)
+
+
+
+
+![Figure 1](https://github.com/changliao/technology/blob/main/_figure/python/pandas_date.png?raw=true)
+
+vnc_u
 
 The OOP structure is a little bit of overkill.

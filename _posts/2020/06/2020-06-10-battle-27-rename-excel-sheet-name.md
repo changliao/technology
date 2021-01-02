@@ -14,7 +14,10 @@ blogger_orig_url: https://codedoesnotlie.blogspot.com/2020/06/battle-27-rename-e
 
 Here is what I got from an Excel sheet name, there are some unexpected special characteristics. So I designed a simple method to resolve them.
 
-![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/excel.png?raw=true)
+
+
+
+![Figure 1](https://github.com/changliao/technology/blob/main/_figure/python/excel.png?raw=true)
 
 First, we obtained the list of sheet name using the above method:
 xl = pd.ExcelFile(sFilename)
