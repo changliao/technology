@@ -14,7 +14,6 @@ layout: default
     {% assign posts = paginator.posts %}
   {% else %}
     {% assign posts = site.posts %}
-    {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
   {% endif %}
 
 
@@ -24,23 +23,19 @@ layout: default
     {%- endif -%}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {% for year in postsByYear %}
-  <h1>{{ year.name }}</h1>
-  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-
-{% for month in postsByMonth %}
-<h2>{{ month.name }}</h2>
-<ul>
-  {% for post in month.items %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <br>{{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
-
-{% endfor %}
-{% endfor %}
+      {%- for post in posts -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
     </ul>
 
     {% if site.paginate %}
