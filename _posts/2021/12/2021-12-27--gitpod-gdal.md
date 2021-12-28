@@ -16,6 +16,9 @@ Gitpod provides an easy way to test and share the whole Python package.
 However, sometimes we have to install missing libraries before we can install some Python packages through pip.
 
 
-https://www.gitpod.io/blog/gitpodify
+To install package, we can follow this instruction:
+[www.gitpod.io/blog/gitpodify](https://www.gitpod.io/blog/gitpodify).
 
-https://www.gitpod.io/docs/environment-variables
+
+To set environment variables, we can follow this instruction:
+[www.gitpod.io/docs/environment-variables](https://www.gitpod.io/docs/environment-variables).
