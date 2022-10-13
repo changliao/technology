@@ -2,9 +2,9 @@
 
 I am an Earth scientist at the Pacific Northwest National Laboratory.
 
-[science.changliao.us](http://science.changliao.us).
+[https://changliao.github.io/science/](https://changliao.github.io/science/).
 
-[technology.changliao.us](http://technology.changliao.us).
+[https://changliao.github.io/technology](https://changliao.github.io/technology/).
 
 
 
