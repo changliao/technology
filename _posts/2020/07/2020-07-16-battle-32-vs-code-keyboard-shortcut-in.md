@@ -19,4 +19,4 @@ Somehow in the VNC environment, the "u" becomes unknown when I was trying to set
 
 
 
-![Figure 1](https://github.com/changliao/technology/blob/main/_figure/programming/vnc_u.png?raw=true)
+![Figure 1](https://github.com/changliao/technology/blob/main/_figures/programming/vnc_u.png?raw=true)

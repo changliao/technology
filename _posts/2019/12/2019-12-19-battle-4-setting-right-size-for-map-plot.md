@@ -30,7 +30,7 @@ To illustrate:
 
 
 
-![Figure 2](https://github.com/changliao/technology/blob/main/_figure/idl/dem.png?raw=true)
+![Figure 2](https://github.com/changliao/technology/blob/main/_figures/idl/dem.png?raw=true)
 
 
 Later I will provide other examples for other type of plots. 

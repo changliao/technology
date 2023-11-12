@@ -17,7 +17,7 @@ Here is what I got from an Excel sheet name, there are some unexpected special c
 
 
 
-![Figure 1](https://github.com/changliao/technology/blob/main/_figure/python/excel.png?raw=true)
+![Figure 1](https://github.com/changliao/technology/blob/main/_figures/python/excel.png?raw=true)
 
 First, we obtained the list of sheet name using the above method:
 xl = pd.ExcelFile(sFilename)

@@ -17,7 +17,7 @@ The pandas date function seems to be very complex! For example:
 
 
 
-![Figure 1](https://github.com/changliao/technology/blob/main/_figure/python/pandas_date.png?raw=true)
+![Figure 1](https://github.com/changliao/technology/blob/main/_figures/python/pandas_date.png?raw=true)
 
 vnc_u
 

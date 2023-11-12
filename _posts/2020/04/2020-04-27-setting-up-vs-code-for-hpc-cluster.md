@@ -40,10 +40,10 @@ Later on, I was not satisfied with Matplotlib, and I started to use MayaVI PyVis
 It appears we cannot rely on SSH anymore, Instead, a VNC is a much better solution. 
 
 
-![Figure 1](https://github.com/changliao/technology/blob/main/_figure/python/vnc_maya.png?raw=true)
+![Figure 1](https://github.com/changliao/technology/blob/main/_figures/python/vnc_maya.png?raw=true)
 
 
-![Figure 2](https://github.com/changliao/technology/blob/main/_figure/python/spyvista.png?raw=true)
+![Figure 2](https://github.com/changliao/technology/blob/main/_figures/python/spyvista.png?raw=true)
 
 
 

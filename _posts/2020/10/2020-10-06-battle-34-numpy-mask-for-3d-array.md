@@ -13,7 +13,7 @@ How to use np.where and mask on a 3D array?
 If I use normal operation, I received an error like this:
 
 
-![Figure 1](https://github.com/changliao/technology/blob/main/_figure/python/numpy3d.png?raw=true)
+![Figure 1](https://github.com/changliao/technology/blob/main/_figures/python/numpy3d.png?raw=true)
 
 
 An easy way to fix this is to operate slice by slice:

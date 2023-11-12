@@ -19,7 +19,7 @@ blogger_orig_url: https://codedoesnotlie.blogspot.com/2020/04/battle-22-scatter-
 How to produce a scatter alike plot using Matplotlib without using SNS or other packages?
 
 
-![Figure 1](https://github.com/changliao/technology/blob/main/_figure/python/sur_slp-zwt_scatterplot.png?raw=true)
+![Figure 1](https://github.com/changliao/technology/blob/main/_figures/python/sur_slp-zwt_scatterplot.png?raw=true)
 
 Here are several issues we need to consider and corresponding solutions (later):
 Setup the axes (there are 3 ax object here) positions;

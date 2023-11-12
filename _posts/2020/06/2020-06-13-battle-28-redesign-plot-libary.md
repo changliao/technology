@@ -16,7 +16,7 @@ I have developed a Python library for various projects. This library has many di
 Now it is time to re-organize some functions.
 
 
-![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figure/python/pyes_plot.png?raw=true)
+![Figure 1](https://github.com/changliao/changliao.github.io/blob/main/_figures/python/pyes_plot.png?raw=true)
 
 So there are several principles I will consider in the redesign:
 I will not specify the temporal resolution, and it can be daily, monthly, or even hourly. This will be completely decided by the input datatime information. But user can specify the format using an optional argument;

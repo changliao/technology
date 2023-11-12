@@ -55,7 +55,7 @@ Below is the result converted from eps:
 
 
 
-![Figure 2](https://github.com/changliao/technology/blob/main/_figure/idl/dem_grid.png?raw=true)
+![Figure 2](https://github.com/changliao/technology/blob/main/_figures/idl/dem_grid.png?raw=true)
 
 
 Why I bother to use IDL instead of other tools like Python, ArcMap?
